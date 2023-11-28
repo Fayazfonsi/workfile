@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-28T17:48:19 IST" name="Default suite" finished-at="2023-11-28T17:51:49 IST" duration-ms="209607">
+    <groups>
+    </groups>
+    <test started-at="2023-11-28T17:48:19 IST" name="Default test" finished-at="2023-11-28T17:51:49 IST" duration-ms="209607">
+      <class name="DemoQa.DemoQa.Interactions">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:DemoQa.DemoQa.Interactions@74ea2410]" started-at="2023-11-28T17:48:13 IST" name="beforeSuite" finished-at="2023-11-28T17:48:19 IST" duration-ms="6659" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method signature="elements()[pri:0, instance:DemoQa.DemoQa.Interactions@74ea2410]" started-at="2023-11-28T17:48:19 IST" name="elements" finished-at="2023-11-28T17:48:41 IST" duration-ms="22106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elements -->
+        <test-method signature="interaction()[pri:1, instance:DemoQa.DemoQa.Interactions@74ea2410]" started-at="2023-11-28T17:48:41 IST" name="interaction" finished-at="2023-11-28T17:48:49 IST" duration-ms="8086" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- interaction -->
+        <test-method signature="sortable()[pri:2, instance:DemoQa.DemoQa.Interactions@74ea2410]" started-at="2023-11-28T17:48:50 IST" name="sortable" finished-at="2023-11-28T17:49:54 IST" duration-ms="64515" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortable -->
+        <test-method signature="selectable()[pri:3, instance:DemoQa.DemoQa.Interactions@74ea2410]" started-at="2023-11-28T17:49:54 IST" name="selectable" finished-at="2023-11-28T17:50:10 IST" duration-ms="16116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectable -->
+        <test-method signature="resizable()[pri:4, instance:DemoQa.DemoQa.Interactions@74ea2410]" started-at="2023-11-28T17:50:10 IST" name="resizable" finished-at="2023-11-28T17:50:25 IST" duration-ms="14975" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resizable -->
+        <test-method signature="droppable()[pri:5, instance:DemoQa.DemoQa.Interactions@74ea2410]" started-at="2023-11-28T17:50:25 IST" name="droppable" finished-at="2023-11-28T17:51:15 IST" duration-ms="49739" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- droppable -->
+        <test-method signature="dragebble()[pri:6, instance:DemoQa.DemoQa.Interactions@74ea2410]" started-at="2023-11-28T17:51:15 IST" name="dragebble" finished-at="2023-11-28T17:51:49 IST" duration-ms="33955" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dragebble -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:DemoQa.DemoQa.Interactions@74ea2410]" started-at="2023-11-28T17:51:49 IST" name="afterSuite" finished-at="2023-11-28T17:51:49 IST" duration-ms="262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- DemoQa.DemoQa.Interactions -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
